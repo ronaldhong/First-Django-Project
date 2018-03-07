@@ -7,7 +7,7 @@ To start virtual environment --> source activate mydjangoENV  <br>
 To Run in server --> python manage.py runserver<br><br>
 
 
-Level one <Completed><br>
+Level one 	&lt;Completed	&gt;<br>
 <hr>
 <ul>
   <li>Setting up projects and applications</li>
