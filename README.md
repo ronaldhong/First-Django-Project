@@ -6,7 +6,7 @@ To create app --> python manage.py startapp &lt;name&gt; <br>
 To start virtual environment --> source activate mydjangoENV  <br>
 To Run in server --> python manage.py runserver<br><br>
 <br>
-Models:
+Models:<br>
 To initiate/applying and unapplying migrations.--> python manage.py migrate  <br>
 To creatine new migrations based on the changes you have made to your models --> python manage.py makemigrations<br>
 <br>
